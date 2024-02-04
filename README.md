@@ -2,10 +2,10 @@
 Supplementary material for the Cisco Live EMEA 2024 session BRKOPS-2103.
 
 ## 4 easy ways towards automated network
-* [Way 1](https://github.com/cskoglun/BRKOPS-2103-prep/blob/main/Way1)
-* [Way 2](https://github.com/cskoglun/BRKOPS-2103-prep/tree/main/way2)
-* [Way 3](https://github.com/cskoglun/BRKOPS-2103-prep/tree/main/way3)
-* [Getting started](GetStarted)
+* [Way 1](/way1)
+* [Way 2](/way2)
+* [Way 3](/way3)
+* [Way_4](/way4)
 
 ## Before you start
 All of the code presented in the Cisco Live session is available for you on this Github repository. If you do not have programming experience before hand, there are couple of steps you will need to cover before you can start trying the examples out.
