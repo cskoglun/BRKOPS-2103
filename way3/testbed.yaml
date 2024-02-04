@@ -1,0 +1,17 @@
+---
+testbed:
+    name: Cisco Live testbed
+devices:
+    switch:
+        connections:
+            cli:
+                ip: "%ENV{DEVICE_IP}"
+                protocol: ssh
+        credentials:
+            default:
+                password: "%ENV{DEVICE_PASSWORD}"
+                username: "%ENV{DEVICE_USERNAME}"
+            enable:
+                password: "%ENV{DEVICE_PASSWORD}"
+        os: iosxe
+        type: iosxe
